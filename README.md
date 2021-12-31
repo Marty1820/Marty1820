@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working building my own one stop shop internal website for all my home network systems I have
 - 🌱 I’m currently learning to code in python
-- ⚡ Fun fact: I'm horrible at writing my own stuff but have a weird quirk for being able to read most coding languages and knowin exactly what it will do.
+- ⚡ Fun fact: I'm horrible at writing my own stuff but have a weird quirk for being able to read most coding languages and knowing exactly what it will do, I can then modify to fit my needs.
 
 ### Languages and Tools I work with:
 
